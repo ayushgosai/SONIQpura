@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SONIQ</string>
+    <string name="notification_channel_playback">SONIQ Music Playback</string>
+    <string name="notification_channel_playback_desc">Shows playback controls and currently playing track info in notification shade and lock-screen</string>
+</resources>

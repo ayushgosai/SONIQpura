@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Waveform Bars representing Viora Soundwave -->
+    <!-- Bar 1 -->
+    <path
+        android:fillColor="#9B7BFF"
+        android:pathData="M32,44 h5 a2.5,2.5 0 0 1 2.5,2.5 v15 a2.5,2.5 0 0 1 -2.5,2.5 h-5 a2.5,2.5 0 0 1 -2.5,-2.5 v-15 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+    <!-- Bar 2 -->
+    <path
+        android:fillColor="#C4B5FD"
+        android:pathData="M43,36 h5 a2.5,2.5 0 0 1 2.5,2.5 v31 a2.5,2.5 0 0 1 -2.5,2.5 h-5 a2.5,2.5 0 0 1 -2.5,-2.5 v-31 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+    <!-- Bar 3 (Center Tall) -->
+    <path
+        android:fillColor="#9B7BFF"
+        android:pathData="M54,28 h5 a2.5,2.5 0 0 1 2.5,2.5 v47 a2.5,2.5 0 0 1 -2.5,2.5 h-5 a2.5,2.5 0 0 1 -2.5,-2.5 v-47 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+    <!-- Bar 4 -->
+    <path
+        android:fillColor="#C4B5FD"
+        android:pathData="M65,34 h5 a2.5,2.5 0 0 1 2.5,2.5 v35 a2.5,2.5 0 0 1 -2.5,2.5 h-5 a2.5,2.5 0 0 1 -2.5,-2.5 v-35 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+    <!-- Bar 5 -->
+    <path
+        android:fillColor="#9B7BFF"
+        android:pathData="M76,46 h5 a2.5,2.5 0 0 1 2.5,2.5 v11 a2.5,2.5 0 0 1 -2.5,2.5 h-5 a2.5,2.5 0 0 1 -2.5,-2.5 v-11 a2.5,2.5 0 0 1 2.5,-2.5 z" />
+</vector>

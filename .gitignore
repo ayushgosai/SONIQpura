@@ -1,0 +1,30 @@
+*.iml
+.DS_Store
+.externalNativeBuild
+.cxx
+captures/
+
+# ── Android / Gradle ────────────────────────────────────────────────────────
+.gradle/
+build/
+**/build/
+.kotlin/
+.idea/
+.vscode/
+local.properties
+*.jks
+*.keystore
+
+# ── Node backend ────────────────────────────────────────────────────────────
+node_modules/
+backend/node_modules/
+
+# ── Secrets (never commit) ──────────────────────────────────────────────────
+.env
+.env.*
+backend/.env
+!.env.example
+!backend/.env.example
+
+# ── Old duplicate project copy ──────────────────────────────────────────────
+DwarkaSpy/
